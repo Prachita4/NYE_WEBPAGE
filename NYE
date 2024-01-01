@@ -1,0 +1,61 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Sample_Webpage1</title>
+</head>
+<header>
+<h1>NEW YEAR</h1>
+</header>
+<body>
+<main>
+<p> 
+The New Year is the time or day at which a new calendar year begins and the calendar's year count increments by one. Many cultures celebrate the event in some manner.
+</p>
+<ul> 
+<li>
+In the Gregorian calendar, the most widely used calendar system today, New Year occurs on January 1 (New Year's Day, preceded by New Year's Eve). This was also the first day of the year in the original Julian calendar and the Roman calendar (after 153 BC).
+</li>
+<li>
+The Japanese New Year (Shōgatsu) is currently celebrated on January 1, with the holiday usually being observed until the January 3, while other sources say that Shōgatsu lasts until January 6. In 1873, five years after the Meiji Restoration, Japan adopted the Gregorian calendar. Prior to 1873, Japan used a lunar calendar with twelve months each of 29 or 30 days for a total year of about 354 days.
+</li>
+<li>
+The Vietnamese New Year is the Tết Nguyên Đán which most times is the same day as the Chinese New Year due to the Vietnamese using a Lunar calendar similar to the Chinese calendar.
+</li>
+<li>
+The Tibetan New Year is Losar and falls between January and March.
+</li>
+</ul>
+<figure>
+<img src="lunarnewyear.jpg" alt="Lunar new year" width="300" height="200">
+<figcaption> Lunar New Year </figcaption>
+</figure>
+<figure>
+<img src="2024.jpg" alt="Upcoming new year" width="300" height="200">
+<figcaption> Upcoming New Year </figcaption>
+</figure>
+<h4>Adaptions of 1st January as new year are as follows: </h4>
+<table>
+<tr><th>COUNTRY</th> <th>START YEAR</th></tr>
+<tr><td>Holy Roman Empire(~Germany)</td><td>1544</td></tr>
+<tr><td>Dutch Republic</td><td>1583</td></tr>
+<tr><td>Russia</td><td>1700</td></tr>
+<tr><td>Japan</td><td>1873</td></tr>
+<tr><td>China</td><td>1912</td></tr>
+<tr><td>Turkey</td><td>1926</td></tr>
+</table>
+<p>All information is adapted from the following site:
+<a href="https://en.wikipedia.org/wiki/New_Year">Wikipedia</a>
+</p>
+<figure>
+<img src="nyi_.jpg" alt="fireworks">
+<figcaption>Fireworks</figcaption>
+</figure>
+<footer>
+<p> 
+End of webpage 
+</p>
+</footer>
+</main>
+</body>
+</html>
